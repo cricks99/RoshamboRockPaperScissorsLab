@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-RoshamboRockPaperScissorsLab",
+      "appliesTo": "RoshamboRockPaperScissorsLab.Tests/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-RoshamboRockPaperScissorsLab",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
